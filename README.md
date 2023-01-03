@@ -1,4 +1,4 @@
-# wxcloudrun-koa
+# wxcloudrun
 
 [![GitHub license](https://img.shields.io/github/license/WeixinCloud/wxcloudrun-koa)](https://github.com/WeixinCloud/wxcloudrun-koa)
 ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/WeixinCloud/wxcloudrun-koa/koa)
